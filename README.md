@@ -12,8 +12,6 @@ Trabalhar com o banco de dados `commerce`, que contém dados do cardápio do **M
 
 **Principais habilidades desenvolvidas nesse trabalho**
 
-Neste projeto, verificamos se você é capaz de:
-
   * Utilizar o método `updateOne()` e `updateMany()`
 
   * Utilizar os operadores `$set`, `$mul`, `$inc`, `$min`, `$max` e `$currentDate`
