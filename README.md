@@ -1,6 +1,6 @@
 ## Projeto Commerce
 
-> Quinto projeto do módulo de Back-end do curso de desenvolvimento web da Trybe.
+> Quinto projeto do módulo de Back-end do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
@@ -12,33 +12,20 @@ Trabalhar com o banco de dados `commerce`, que contém dados do cardápio do **M
 
 **Principais habilidades desenvolvidas nesse trabalho**
 
-  * Utilizar o método `updateOne()` e `updateMany()`
-
-  * Utilizar os operadores `$set`, `$mul`, `$inc`, `$min`, `$max` e `$currentDate`
-
-  * Renomear campos e remover campos
-
-  * Incorporar dados aos documentos através de arrays
-
-  * Utilizar os operadores `$pop`, `$pull` e `$push`
-  
-  * Utilizar o operador `$addToSet`
-
-  * Utilizar os operadores `$each`, `$slice` e `$sort`
-
-  * Utilizar o operador `$all` para filtrar documentos
-
-  * Utilizar o operador `$elemMatch` para filtrar documentos
-
-  * Utilizar o operador `$size` para filtrar documentos pelo tamanho de arrays
-
-  * Utilizar o operador `$expr` para criar expressões de agregação
-
-  * Utilizar expressões regulares e o operador `$regex` para buscar documentos
-
-  * Utilizar o índice textual e o operador `$text`
-
-  * Utilizar o operador `$mod`
+  - Utilizar o método `updateOne()` e `updateMany()`;
+  - Utilizar os operadores `$set`, `$mul`, `$inc`, `$min`, `$max` e `$currentDate`;
+  - Renomear campos e remover campos;
+  - Incorporar dados aos documentos através de arrays;
+  - Utilizar os operadores `$pop`, `$pull` e `$push`;
+  - Utilizar o operador `$addToSet`;
+  - Utilizar os operadores `$each`, `$slice` e `$sort`;
+  - Utilizar o operador `$all` para filtrar documentos;
+  - Utilizar o operador `$elemMatch` para filtrar documentos;
+  - Utilizar o operador `$size` para filtrar documentos pelo tamanho de arrays;
+  - Utilizar o operador `$expr` para criar expressões de agregação;
+  - Utilizar expressões regulares e o operador `$regex` para buscar documentos;
+  - Utilizar o índice textual e o operador `$text`;
+  - Utilizar o operador `$mod`.
 
 **Tecnologia utilizada**
 - <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" align="center" height="35"/> - MongoDB</a>
@@ -213,3 +200,7 @@ Para isso, escreva no arquivo `desafio20.js` duas queries, **nesta ordem**:
 #### 21 - Retorne o `nome` dos sanduíches em que o número de `curtidas` é maior que o número de sanduíches `vendidos`.
 
 #### 22 - Retorne o `nome` e a quantidade de vendas (`vendidos`) dos sanduíches em que o número de vendas é múltiplo de `5`.
+
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
